@@ -1,0 +1,43 @@
+Hey Starknet builder, welcome to our great community!
+
+Fill this form please:  https://starknet.io/corestars
+
+Don't know what to do next, book an orientation call here: https://calendly.com/espejelomar/starknet-ecosystem-orientation-1
+
+Interesting telegram groups related to Starknet ecosystem projects. Feel free to join them and contribute: 
+https://t.me/MadaraStarknet
+https://t.me/BeerusStarknet
+https://t.me/GaragaPairingCairo
+https://t.me/starknet_rs
+https://t.me/dojoengine
+https://t.me/AlexandriaStarkNet
+https://t.me/KakarotZkEvm
+https://t.me/cairobook
+https://t.me/oriondevs
+https://t.me/SatoruStarknet
+https://t.me/starknet_zig 
+
+Learning resources:
+- Starknet documentation: https://docs.starknet.io/documentation/
+- Cairo Book: https://book.cairo-lang.org/
+- Starknet Book: https://book.starknet.io/
+- Starknet Foundry Book: https://foundry-rs.github.io/starknet-foundry/
+- Starknet By Example: https://starknet-by-example.voyager.online/
+- Starkli Book: https://book.starkli.rs/
+- Starklings: https://starklings.app
+
+Wallets:
+- Argent: https://www.argent.xyz/argent-x/
+- Braavos: https://braavos.app/
+
+Block explorers:
+- Voyager: https://voyager.online/
+- Starkscan: https://starkscan.co/
+
+SDKs:
+- Starknet JS: https://www.starknetjs.com/
+- Starknet Rust: https://github.com/xJonathanLEI/starknet-rs
+- Starknet Go: https://github.com/NethermindEth/starknet.go
+
+Misc:
+- Awesome Starknet: https://github.com/keep-starknet-strange/awesome-starknet
