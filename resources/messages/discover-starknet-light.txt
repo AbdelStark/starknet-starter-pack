@@ -2,6 +2,8 @@ Hey Starknet builder, welcome to our great community!
 
 Fill this form please:  https://starknet.io/corestars 
 
+Register to Only Dust to contribute to Starknet open source projects and get paid: https://app.onlydust.com/
+
 Learning resources:
 - Starknet documentation: https://docs.starknet.io/documentation/
 - Cairo Book: https://book.cairo-lang.org/
