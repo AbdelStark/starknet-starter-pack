@@ -4,22 +4,4 @@ Fill this form please:  https://starknet.io/corestars
 
 Register to Only Dust to contribute to Starknet open source projects and get paid: https://app.onlydust.com/
 
-Learning resources:
-- Starknet documentation: https://docs.starknet.io/documentation/
-- Cairo Book: https://book.cairo-lang.org/
-- Starknet Book: https://book.starknet.io/
-- Starkli Book: https://book.starkli.rs/
-- Starklings: https://starklings.app
-
-Wallets:
-- Argent: https://www.argent.xyz/argent-x/
-- Braavos: https://braavos.app/
-
-Block explorers:
-- Voyager: https://voyager.online/
-- Starkscan: https://starkscan.co/
-
-SDKs:
-- Starknet JS: https://www.starknetjs.com/
-- Starknet Rust: https://github.com/xJonathanLEI/starknet-rs
-- Starknet Go: https://github.com/NethermindEth/starknet.go
+Developer Hub: https://www.starknet.io/developers/
