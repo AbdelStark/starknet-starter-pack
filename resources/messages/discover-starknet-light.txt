@@ -6,4 +6,6 @@ Register to Only Dust to contribute to Starknet open source projects and get pai
 
 Developer Hub: https://www.starknet.io/developers/
 
-Apply for a grant with the Wolf Pack League: http://starknet.io/wpl
+Apply for a StarkWare grant with the Wolf Pack League: http://starknet.io/wpl
+
+Apply for a Starknet Foundation grant: https://www.starknet.io/ecosystem/grant/
