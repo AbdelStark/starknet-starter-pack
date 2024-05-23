@@ -5,3 +5,5 @@ Fill this form please:  https://starknet.io/corestars
 Register to Only Dust to contribute to Starknet open source projects and get paid: https://app.onlydust.com/
 
 Developer Hub: https://www.starknet.io/developers/
+
+Apply for a grant with the Wolf Pack League: http://starknet.io/wpl
